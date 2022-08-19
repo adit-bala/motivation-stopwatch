@@ -22,6 +22,34 @@ header p {
     margin: 1rem 0 0;
 }
 
+.container {
+  margin: 0 auto;
+  width: 95%;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    margin: 2rem -0.5rem;
+}
+
+.progress {
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    margin-left: 0.5rem;
+    width: 40px;
+    padding: 0.5rem 0;
+    box-sizing: border-box;
+    margin: 0.25rem 0.5rem;
+    width: calc(100% - 1rem);
+}
+
+
 /* add above footer */
 
 footer {

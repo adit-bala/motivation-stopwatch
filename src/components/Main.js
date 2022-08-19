@@ -12,6 +12,31 @@ export default function Main() {
           the way.
         </p>
       </header>
+      <div className="container flex">
+        <div className="progress">
+          <h3>Seconds</h3>
+        </div>
+        <div className="progress">
+          <h3>Minutes</h3>
+        </div>
+        <div className="progress">
+          <h3>Hours</h3>
+        </div>
+        <div className="progress">
+          <h3>Days</h3>
+        </div>
+      </div>
+      <div className="container flex">
+        <div className="progress">
+          <h3>Weeks</h3>
+        </div>
+        <div className="progress">
+          <h3>Months</h3>
+        </div>
+        <div className="progress">
+          <h3>Years</h3>
+        </div>
+      </div>
       <div> [insert clock] </div>
       <footer>
         <p>
