@@ -22,23 +22,6 @@ header p {
     margin: 1rem 0 0;
 }
 
-.container {
-  margin: 0 auto;
-  width: 95%;
-}
-
-.flex {
-    display: flex;
-    flex-wrap: wrap;
-    align-content: center;
-    justify-content: center;
-    margin: 2rem -0.5rem;
-}
-
-
-
-/* add above footer */
-
 footer {
   text-align: center;
 }

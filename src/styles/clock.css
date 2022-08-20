@@ -1,0 +1,24 @@
+.container {
+    margin: 0 auto;
+    width: 95%;
+    padding: 1rem 0;
+}
+  
+.flex {
+      display: flex;
+      flex-wrap: wrap;
+      align-content: center;
+      justify-content: center;
+}
+
+.progress {
+    flex: 1;
+    text-align: center;
+    
+}
+
+.progress h2 {
+    background-color: #cccccc;
+    color: #222222;
+    width: 50%;
+}
