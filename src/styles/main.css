@@ -33,7 +33,6 @@ footer {
 	
 	transition-property: color;
 	transition-duration: .25s;
-	trasition-timing-function: cubic-bezier(0,0,.58,1);
 }
 
 .link:hover {

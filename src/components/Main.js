@@ -22,18 +22,7 @@ export default function Main() {
           Heavily inspired by{" "}
           <a class="link" href="https://github.com/jakealbaugh">
             @jakealbaugh
-          </a>{" "}
-        </p>
-        <p> Special shoutout to my friend Oatmeal Olimar </p>
-        <p>
-          <small>
-            <a
-              class="link"
-              href="https://github.com/adit-bala/motivation-timer"
-            >
-              GitHub
-            </a>
-          </small>
+          </a>{" "} | Special shoutout to my friend Oatmeal Olimar
         </p>
       </footer>
     </>
