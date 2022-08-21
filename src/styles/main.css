@@ -26,6 +26,19 @@ footer {
   text-align: center;
 }
 
+.link {
+	color: inherit;
+	text-decoration: none;
+	box-shadow: inset 0 -.125em 0 0 #ddd;
+	
+	transition-property: color;
+	transition-duration: .25s;
+	trasition-timing-function: cubic-bezier(0,0,.58,1);
+}
+
+.link:hover {
+	color: #ccc;
+}
 
 
 

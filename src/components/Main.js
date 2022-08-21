@@ -8,7 +8,9 @@ export default function Main() {
       <header className="container">
         <h1> it is time. </h1>
         <p>
-          <a href="https://github.com/adit-bala">adit bala </a>
+          <a class="link" href="https://github.com/adit-bala">
+            adit bala{" "}
+          </a>
           is motivating himself to improve his life. this is helping him along
           the way.
         </p>
@@ -18,12 +20,19 @@ export default function Main() {
         <p>
           {" "}
           Heavily inspired by{" "}
-          <a href="https://github.com/jakealbaugh">@jakealbaugh</a>{" "}
+          <a class="link" href="https://github.com/jakealbaugh">
+            @jakealbaugh
+          </a>{" "}
         </p>
         <p> Special shoutout to my friend Oatmeal Olimar </p>
         <p>
           <small>
-            <a href="https://github.com/adit-bala/motivation-timer">GitHub</a>
+            <a
+              class="link"
+              href="https://github.com/adit-bala/motivation-timer"
+            >
+              GitHub
+            </a>
           </small>
         </p>
       </footer>

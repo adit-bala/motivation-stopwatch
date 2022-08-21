@@ -3,8 +3,8 @@ import StopWatch from "../components/StopWatch";
 import "../styles/clock.css";
 
 export default function Clock() {
-  const start = 1660881600000; // new Date(2022, 7, 19)
-  const [time, setTime] = useState(0);
+  const start = 1660971600000; // new Date(2022, 7, 20, 1)
+  const [time, setTime] = useState(new Date().getTime() - start);
   setInterval(() => {
     setTime((new Date().getTime() - start) / 1000);
   }, 1000);
