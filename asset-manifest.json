@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/motivation-stopwatch/static/css/main.d25b8769.css",
+    "main.js": "/motivation-stopwatch/static/js/main.74bb1415.js",
+    "static/js/787.8e9e615b.chunk.js": "/motivation-stopwatch/static/js/787.8e9e615b.chunk.js",
+    "static/media/logo.svg": "/motivation-stopwatch/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/motivation-stopwatch/index.html",
+    "main.d25b8769.css.map": "/motivation-stopwatch/static/css/main.d25b8769.css.map",
+    "main.74bb1415.js.map": "/motivation-stopwatch/static/js/main.74bb1415.js.map",
+    "787.8e9e615b.chunk.js.map": "/motivation-stopwatch/static/js/787.8e9e615b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d25b8769.css",
+    "static/js/main.74bb1415.js"
+  ]
+}
