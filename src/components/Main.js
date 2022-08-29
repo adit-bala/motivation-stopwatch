@@ -8,7 +8,7 @@ export default function Main() {
       <header className="container">
         <h1> it is time. </h1>
         <p>
-          <a class="link" href="https://github.com/adit-bala">
+          <a className="link" href="https://github.com/adit-bala">
             adit bala{" "}
           </a>
           is motivating himself to improve his life. this is helping him along
@@ -20,7 +20,7 @@ export default function Main() {
         <p>
           {" "}
           Heavily inspired by{" "}
-          <a class="link" href="https://github.com/jakealbaugh">
+          <a className="link" href="https://github.com/jakealbaugh">
             @jakealbaugh
           </a>{" "} | Special shoutout to my friend Oatmeal Olimar
         </p>

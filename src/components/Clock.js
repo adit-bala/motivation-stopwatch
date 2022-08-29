@@ -1,9 +1,10 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import StopWatch from "../components/StopWatch";
 import "../styles/clock.css";
 
 export default function Clock() {
-  const start = 1660971600000; // new Date(2022, 7, 20, 1)
+  const start = 1661695200000; // new Date(2022, 7, 21, 10)
+  // console.log(new Date(2022, 7, 28, 7).getTime());
   const [time, setTime] = useState(new Date().getTime() - start);
   setInterval(() => {
     setTime((new Date().getTime() - start) / 1000);
